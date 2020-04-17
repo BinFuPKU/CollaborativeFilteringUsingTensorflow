@@ -2,8 +2,10 @@
 Realising collaborative filtering methods in recommendation domain (done in 2018)
 
 
+
 **Running Requirements:**
 * tensorflow 1.14
+
 
 
 We realized some common-used collaborative filtering methods in recommendation domain, including:
