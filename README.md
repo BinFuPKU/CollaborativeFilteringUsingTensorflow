@@ -18,8 +18,8 @@ We realized some common-used collaborative filtering methods in recommendation d
 
 [4]. Pan, W., Chen, L.: GBPR: group preference based bayesian personalized ranking for one-class collaborative filtering. In: IJCAI. pp. 2691–2697. IJCAI/AAAI (2013)
 
-[5]. Qiu,S.,Cheng,J.,Yuan,T.,Leng,C.,Lu,H.:Itemgroupbasedpairwisepreference learning for personalized ranking. In: SIGIR. pp. 1219–1222. ACM (2014)
+[5]. Qiu,S.,Cheng,J.,Yuan,T.,Leng,C.,Lu,H.:Item group based pairwise preference learning for personalized ranking. In: SIGIR. pp. 1219–1222. ACM (2014)
 
-[6]. Hsieh,C.,Yang,L.,Cui,Y.,Lin,T.,Belongie,S.J.,Estrin,D.:Collaborativemetric learning. In: WWW. pp. 193–201. ACM (2017)
+[6]. Hsieh,C.,Yang,L.,Cui,Y.,Lin,T.,Belongie,S.J.,Estrin,D.:Collaborative metric learning. In: WWW. pp. 193–201. ACM (2017)
 
 [7]. Liu, H., Wu, Z., Zhang, X.: CPLR: collaborative pairwise learning to rank for personalized recommendation. Knowl.-Based Syst. 148, 31–40 (2018)
