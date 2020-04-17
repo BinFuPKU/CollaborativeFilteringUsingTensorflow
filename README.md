@@ -1,10 +1,10 @@
 # CollaborativeFilteringUsingTensorflow
-Realising collaborative filtering methods in recommendation domain (done in 2018)
+Realising collaborative filtering methods in recommendation domain (done in 2019)
 
 
 
 **Running Requirements:**
-* tensorflow 1.14
+* tensorflow 1.13
 
 
 
