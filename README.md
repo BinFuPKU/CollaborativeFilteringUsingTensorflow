@@ -23,3 +23,6 @@ We realized some common-used collaborative filtering methods in recommendation d
 [6]. Hsieh,C.,Yang,L.,Cui,Y.,Lin,T.,Belongie,S.J.,Estrin,D.:Collaborative metric learning. In: WWW. pp. 193–201. ACM (2017)
 
 [7]. Liu, H., Wu, Z., Zhang, X.: CPLR: collaborative pairwise learning to rank for personalized recommendation. Knowl.-Based Syst. 148, 31–40 (2018)
+
+[8]. Yi Tay, Luu Anh Tuan, Siu Cheung Hui: Latent Relational Metric Learning via Memory-based Attention for Collaborative Ranking. WWW 2018: 729-739.
+
