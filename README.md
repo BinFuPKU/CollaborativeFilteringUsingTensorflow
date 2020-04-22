@@ -4,7 +4,8 @@ Realising collaborative filtering methods in recommendation domain (done in 2019
 
 
 **Running Requirements:**
-* tensorflow 1.13
+* python 3.6+
+* tensorflow 1.13+
 
 
 
