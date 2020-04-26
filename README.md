@@ -1,5 +1,5 @@
 # CollaborativeFilteringUsingTensorflow
-Realising collaborative filtering methods in recommendation domain (done in 2019)
+Realising several collaborative filtering methods in recommendation domain (done in 2019)
 
 
 
