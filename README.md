@@ -1,7 +1,6 @@
 # CollaborativeFilteringUsingTensorflow
 Realising several collaborative filtering methods in recommendation domain (done in 2019)
-
-
+The code is relatively readable. It is divided into parts of evaluation, parallel sampling using multi-process, model and test, with considering using sparse matrix and CPU / GPU mode switching.
 
 **Running Requirements:**
 * python 3.6+
