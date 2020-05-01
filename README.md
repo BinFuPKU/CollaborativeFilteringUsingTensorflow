@@ -34,16 +34,16 @@ We realized some common-used collaborative filtering methods in recommendation d
     |    |----movielens
     |    |    |----ml-100k (toy dataset, five folds for cross-validation)
     |    |    |    |----ratings.txt
+    |    |    |    |----ratings_.txt
     |    |    |    |----ratings__1_tra.txt
     |    |    |    |----ratings__1_tst.txt
     |    |    |    |----ratings__2_tra.txt
-    |    |    |    |----ratings__3_tst.txt
     |    |    |    |----ratings__2_tst.txt
     |    |    |    |----ratings__3_tra.txt
-    |    |    |    |----ratings_.txt
+    |    |    |    |----ratings__3_tst.txt
+    |    |    |    |----ratings__4_tra.txt
     |    |    |    |----ratings__4_tst.txt
     |    |    |    |----ratings__5_tra.txt
-    |    |    |    |----ratings__4_tra.txt
     |    |    |    |----ratings__5_tst.txt
     |----src
     |    |----code_data.py (code the user id and item id into 0,1,2... for indexing in matrix)
