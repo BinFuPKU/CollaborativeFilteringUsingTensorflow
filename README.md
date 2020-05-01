@@ -49,8 +49,8 @@ We realized some common-used collaborative filtering methods in recommendation d
     |    |    |    |----ratings__5_tst.txt
     |----src
     |    |----metrics (evaluation metrics)
-    |    |    |----rating.py (evaluate metrics for ranking, e.g. MAP/MRR/NDCG/AUC/HR/ARHR)
-    |    |    |----ranking.py  (evaluate metrics for rating, e.g. MAE/RMSE/MSE)
+    |    |    |----rating.py (evaluation metrics for ranking, e.g. MAP/MRR/NDCG/AUC/HR/ARHR)
+    |    |    |----ranking.py  (evaluation metrics for rating, e.g. MAE/RMSE/MSE)
     |    |----utils (some general userful functions)
     |    |    |----Util.py 
     |    |    |----IOUtil.py (read and write files)
