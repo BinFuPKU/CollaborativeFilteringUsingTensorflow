@@ -31,10 +31,10 @@ We realized some common-used collaborative filtering methods in recommendation d
 ----CollaborativeFilteringUsingTensorflow
 
     |    |----code_data.py (code the user id and item id into 0,1,2... for indexing in matrix)
-    |    |----cut_data.py (split the dataset into five-fold for cross-validation, each one includes training set and test set)
+    |    |----cut_data.py (split the dataset into k folds (e.g. 5) for cross-validation, each one includes training set and test set)
     |----data
     |    |----movielens
-    |    |    |----ml-100k (toy dataset, five fold cross-validation)
+    |    |    |----ml-100k (toy dataset, five folds for cross-validation)
     |    |    |    |----ratings.txt
     |    |    |    |----ratings__1_tra.txt
     |    |    |    |----ratings__1_tst.txt
