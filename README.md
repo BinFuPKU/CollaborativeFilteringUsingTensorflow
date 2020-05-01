@@ -100,6 +100,8 @@ We realized some common-used collaborative filtering methods in recommendation d
     |    |    |----sampler_uij_ranking.py
     |    |    |----sampler_ranking.py
     |    |    |----sampler_gbpr.p
-    
+
+
 **Running order:**
-code_data.py -> -cut_data.py -> testbprmf.py (the test file of your model)
+
+code_data.py -> cut_data.py -> testbprmf.py (the test file of your model)
