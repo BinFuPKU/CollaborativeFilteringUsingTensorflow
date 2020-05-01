@@ -58,48 +58,49 @@ We realized some common-used collaborative filtering methods in recommendation d
     |    |    |----PL (preference learning models)
     |    |    |    |----testcplr_u.py
     |    |    |    |----models
-    |    |    |    |    |----gbprmf.py
     |    |    |    |    |----bprmf.py
+    |    |    |    |    |----gbprmf.py
     |    |    |    |    |----prigp.py
     |    |    |    |    |----cml.py
     |    |    |    |    |----cplr_u.py
-    |    |    |    |----testprigp.py
     |    |    |    |----testbprmf.py
     |    |    |    |----testgbprmf.py
+    |    |    |    |----testprigp.py
     |    |    |    |----testcml.py
+    |    |    |    |----testcplr_u.py
     |    |    |----basic (basic recommendation models)
-    |    |    |    |----testicf.py
-    |    |    |    |----testsvd.py
-    |    |    |    |----testmf.py
     |    |    |    |----models
-    |    |    |    |    |----usercf.py
-    |    |    |    |    |----wrmf.py
-    |    |    |    |    |----svd.py
-    |    |    |    |    |----mf.py
-    |    |    |    |    |----itemcf.py
     |    |    |    |    |----pop.py
+    |    |    |    |    |----usercf.py
+    |    |    |    |    |----itemcf.py
+    |    |    |    |    |----mf.py
+    |    |    |    |    |----svd.py
+    |    |    |    |    |----wrmf.py
     |    |    |    |----testpop.py
     |    |    |    |----testucf.py
+    |    |    |    |----testicf.py
+    |    |    |    |----testmf.py
+    |    |    |    |----testsvd.py
     |    |    |    |----testwrmf.py
     |    |    |----others
     |    |    |    |----models
     |    |    |    |    |----useritemcf.py
-    |    |    |    |    |----lrml.py
     |    |    |    |    |----amf.py
+    |    |    |    |    |----lrml.py
+    |    |    |    |----testuicf.py
     |    |    |    |----testamf.py
     |    |    |    |----testlrml.py
-    |    |    |    |----testuicf.py
     |    |----samplers (different samplers for models, parallel sampling using multi-process)
+    |    |    |----sampler_rating.py
+    |    |    |----sampler_ranking.py
+    |    |    |----sampler_gbpr.py
+    |    |    |----sampler_prigp.py
     |    |    |----sampler_rating_weight.py
     |    |    |----sampler_uiktj_ranking.py
-    |    |    |----sampler_prigp.py
     |    |    |----sampler_uitj_ranking.py
     |    |    |----sampler_uitj_ranking_.py
-    |    |    |----sampler_rating.py
     |    |    |----sampler_lrml_ranking.py
     |    |    |----sampler_uij_ranking.py
-    |    |    |----sampler_ranking.py
-    |    |    |----sampler_gbpr.p
 
 
 **Running order:**
