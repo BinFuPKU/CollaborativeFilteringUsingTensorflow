@@ -51,7 +51,7 @@ We realized some common-used collaborative filtering methods in recommendation d
     |    |----metrics (evaluation metrics)
     |    |    |----rating.py (evaluation metrics for ranking, e.g. MAP/MRR/NDCG/AUC/HR/ARHR)
     |    |    |----ranking.py  (evaluation metrics for rating, e.g. MAE/RMSE/MSE)
-    |    |----utils (some general userful functions)
+    |    |----utils (some general userful functions used as tools)
     |    |    |----Util.py 
     |    |    |----IOUtil.py (read and write files)
     |    |----models (recommendation models and their corresponding test files, CPU/GPU mode switching)
