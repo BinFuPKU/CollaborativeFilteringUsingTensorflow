@@ -48,7 +48,7 @@ We realized some common-used collaborative filtering methods in recommendation d
     |    |    |    |----ratings__4_tra.txt
     |    |    |    |----ratings__5_tst.txt
     |----src
-    |    |----metrics (evaludate fold)
+    |    |----metrics (evaluation metrics)
     |    |    |----rating.py (evaluate metrics for ranking, e.g. MAP/MRR/NDCG/AUC/HR/ARHR)
     |    |    |----ranking.py  (evaluate metrics for rating, e.g. MAE/RMSE/MSE)
     |    |----utils (some general userful functions)
@@ -100,3 +100,6 @@ We realized some common-used collaborative filtering methods in recommendation d
     |    |    |----sampler_uij_ranking.py
     |    |    |----sampler_ranking.py
     |    |    |----sampler_gbpr.p
+    
+**Running order:**
+code_data.py -> -cut_data.py -> testbprmf.py (the test file of your model)
