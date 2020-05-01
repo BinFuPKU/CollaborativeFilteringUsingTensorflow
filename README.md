@@ -27,11 +27,17 @@ We realized some common-used collaborative filtering methods in recommendation d
 
 
 The project architecture:
+
 ----CollaborativeFilteringUsingTensorflow
+
     |    |----cut_data.py (split the dataset into five-fold for cross-validation, each one includes training set and test set)
+    
     |    |----code_data.py (code the user id and item id into 0,1,2... for indexing in matrix)
+    
     |----data
+    
     |    |----movielens
+    
     |    |    |----ml-100k (toy dataset, fivefold cross-validation)
     |    |    |    |----ratings.txt
     |    |    |    |----ratings__1_tra.txt
