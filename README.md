@@ -7,7 +7,7 @@ The code is relatively readable, and you can download and run it without any mod
 * tensorflow 1.13+
 
 
-We realized some common-used collaborative filtering methods in recommendation domain, including:
+We implement some common-used collaborative filtering methods in recommendation domain, including:
 
 * [1]. Sarwar, B.M., Karypis, G., Konstan, J.A., Riedl, J.: Item-based collaborative filtering recommendation algorithms. In: WWW. pp. 285–295. ACM (2001) (code: itemcf.py)
 
