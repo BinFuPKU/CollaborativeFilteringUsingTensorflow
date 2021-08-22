@@ -49,8 +49,8 @@ We implement some common-used collaborative filtering methods in recommendation 
     |    |----code_data.py (code the user id and item id into 0,1,2... for indexing in matrix)
     |    |----cut_data.py (split the dataset into k folds (e.g. 5) for cross-validation, each one includes training set and test set)
     |    |----metrics (evaluation metrics)
-    |    |    |----rating.py (evaluation metrics for ranking, e.g. MAP/MRR/NDCG/AUC/HR/ARHR)
-    |    |    |----ranking.py  (evaluation metrics for rating, e.g. MAE/RMSE/MSE)
+    |    |    |----rating.py (evaluation metrics for rating, e.g. MAE/RMSE/MSE)
+    |    |    |----ranking.py  (evaluation metrics for ranking, e.g. MAP/MRR/NDCG/AUC/HR/ARHR)
     |    |----utils (some general userful functions used as tools)
     |    |    |----Util.py 
     |    |    |----IOUtil.py (read and write files)
