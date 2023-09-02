@@ -1,6 +1,16 @@
 # Collaborative Filtering Using Tensorflow
-Realising several collaborative filtering methods in recommendation domain (done in 2019).
+I realise several collaborative filtering methods in recommendation domain (done in 2019).
 The code is relatively readable, and you can download and run it without any modification. It is divided into parts of evaluation, parallel sampling using multi-process, model and test, with considering using sparse matrix and CPU / GPU mode switching. If you feel helpful for your work, please star this project or watch my future work!
+
+please read our paper:
+
+@inproceedings{Fu2020GeneralizedCP,
+  title={Generalized Collaborative Personalized Ranking for Recommendation},
+  author={Bin Fu and Hongzhi Liu and Yang Song and Tao Zhang and Zhonghai Wu},
+  booktitle={APWeb/WAIM},
+  year={2020},
+  url={https://api.semanticscholar.org/CorpusID:224769799}
+}
 
 **Running Requirements:**
 * python 3.6+
