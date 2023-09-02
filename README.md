@@ -4,6 +4,8 @@ The code is relatively readable, and you can download and run it without any mod
 
 please read our paper:
 
+Bibtex:
+```
 @inproceedings{Fu2020GeneralizedCP,
   title={Generalized Collaborative Personalized Ranking for Recommendation},
   author={Bin Fu and Hongzhi Liu and Yang Song and Tao Zhang and Zhonghai Wu},
@@ -11,6 +13,7 @@ please read our paper:
   year={2020},
   url={https://api.semanticscholar.org/CorpusID:224769799}
 }
+```
 
 **Running Requirements:**
 * python 3.6+
